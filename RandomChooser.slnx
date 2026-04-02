@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RandomChooser/RandomChooser.csproj" Id="fbade052-d5a2-4f36-9dfb-0e28defc2cb3" />
+  <Project Path="Setup1/Setup1.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
