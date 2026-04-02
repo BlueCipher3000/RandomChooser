@@ -71,7 +71,7 @@
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(111, 13);
             this.lblResult.TabIndex = 2;
-            this.lblResult.Text = "label1";
+            this.lblResult.Text = "Get go!!!";
             this.lblResult.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel1
